@@ -1,0 +1,24 @@
+{
+  "name": "veterinary-soap-note-recorder",
+  "version": "1.0.0",
+  "description": "An application that allows veterinarians and veterinary assistants/technicians to record a patient's information and vitals as well as an overview of any assessments performed",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HashemE1999/veterinary-soap-note-recorder"
+  },
+  "author": "Hashem Elmaghrabi",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "express": "^4.21.2",
+    "mongodb": "^6.12.0",
+    "mongoose": "^8.9.4",
+    "react": "^19.0.0",
+    "react-bootstrap": "^2.10.7",
+    "vite": "^6.0.7"
+  }
+}
